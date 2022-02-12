@@ -1,6 +1,5 @@
-# BALLOON JUMPER
+# Balloon Jumper
 
-Title: BalloonJumper  
 Category: Game    
 Genre: 2D, Jumper   
 
