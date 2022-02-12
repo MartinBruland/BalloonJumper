@@ -22,11 +22,11 @@ Main Menu | Game | Game Over
 
 -------------------------------------------
 ## How To Use
-- Clone project
-- Open in Xcode
-- Build
-- Select device
-- Start
+1. Clone project
+2. Open in Xcode
+3. Build
+4. Select device
+5. Start
 
 -------------------------------------------
 ## Privacy Policy 
