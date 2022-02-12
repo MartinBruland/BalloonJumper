@@ -22,6 +22,11 @@ Main Menu | Game | Game Over
 
 -------------------------------------------
 ## How To Use
+- Clone project
+- Open in Xcode
+- Build
+- Select device
+- Start
 
 -------------------------------------------
 ## Privacy Policy 
