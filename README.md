@@ -22,5 +22,8 @@ Main Menu | Game | Game Over
 <img src="https://github.com/MartinBruland/BalloonJump/blob/main/Images/startmenu.PNG" width="150" height="300"> | <img src="https://github.com/MartinBruland/BalloonJump/blob/main/Images/game.PNG" width="150" height="300"> | <img src="https://github.com/MartinBruland/BalloonJump/blob/main/Images/gameover.PNG" width="150" height="300">     
 
 -------------------------------------------
+## How To Use
+
+-------------------------------------------
 ## Privacy Policy 
 This game does not collect or use your data.
