@@ -4,8 +4,7 @@ Category: Game
 Genre: 2D, Jumper   
 
 Platform: IOS   
-Language: Swift 5.0, SpriteKit   
-Available at:     
+Language: Swift 5.0, SpriteKit      
 
 Developer: Martin Bruland   
 Created: August 2021    
